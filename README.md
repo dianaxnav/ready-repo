@@ -8,10 +8,11 @@ In 2017, Santa Barbara and Ventura county suffered the 7th largest wildfire in t
 
 AirNow. (2021b). Air Quality Index (AQI) Basics. Retrieved from www.airnow.gov website: https://www.airnow.gov/aqi/aqi-basics/ 
 
-Wikipedia Contributors. (2019, October 6). Thomas Fire. Retrieved from Wikipedia website: https://en.wikipedia.org/wiki/Thomas_Fire
-
 California Fire Perimeters (all). (n.d.). Retrieved November 29, 2023, from gis.data.ca.gov website: https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-all-1/about
+
+Microsoft Planetary Computer. Planetary Computer. (n.d.). https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2))
 
 USGS. (n.d.). What are the band designations for the Landsat satellites? | U.S. Geological Survey. Retrieved from www.usgs.gov website: https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites
 
+Wikipedia Contributors. (2019, October 6). Thomas Fire. Retrieved from Wikipedia website: https://en.wikipedia.org/wiki/Thomas_Fire
 
